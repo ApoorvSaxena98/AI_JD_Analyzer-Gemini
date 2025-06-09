@@ -20,6 +20,7 @@ AI-JD-Analyzer_Gemini/
 ├── requirements.txt # Project dependencies
 
 ├── streamlit/ # 🔁 Rename to ".streamlit" (see note below)
+
   └── secrets.toml # Google AI API key config (Enter your own api key)
 
 ├── assets/
@@ -51,6 +52,7 @@ Rename the `streamlit` folder to `.streamlit` before running the app.
 ---
 
 **Sample Inputs**
+
 Use the assets/ folder to test the app with example files:
 - sample_resume.txt
 - sample_job_description.txt
