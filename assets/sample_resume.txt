@@ -1,0 +1,51 @@
+Apoorva Saxena
++91-7906566517 | saxena.2798@gmail.com | Ghaziabad, U.P., IN | LinkedIn
+
+
+SUMMARY
+Experienced in Python/Django, API support and UI development with 3 years in designing robust applications using
+SDLC, agile methodologies, and collaboration to deliver scalable solutions. Seeking opportunities in software/UI 
+development to enhance problem-solving and professional growth.
+
+
+TECHNICAL SKILLS
+● Language: Python, HTML/CSS, JavaScript, SQL
+● Technologies/Tools: Django, Postman, Photoshop, MySQL, SQLite, React
+
+
+WORK EXPERIENCE
+API Support Engineer – Kotak Mahindra Bank (Maharashtra) Oct’21
+● Redesigned & optimized APIs using postman, resulting in improved performance by ~30%.
+● Collaborated with the team to implement detailed specifications, delivering multiple new features and 
+integrating payment APIs.
+● Modified database schemas, promptly addressing technical issues to maintain positive customer relations.
+
+
+UI Developer – Infoicon Technologies (NOIDA) Mar’20 – Sep’2021
+● Developed and maintained user-friendly responsive web interfaces using HTML, CSS, and JavaScript, 
+enhancing overall user experience and engagement.
+● Led cross-functional teams to improve website performance by 25%, created reusable ui components and 
+libraries reducing development time for future projects by 20%.
+● Implemented SDLC methodologies across multiple projects, optimizing cross-disciplinary processes.
+● Worked closely with clients to understand their requirements and translate them into functional and 
+aesthetic user interfaces.
+
+
+PROJECTS
+● Banking Management System(Python): A banking platform that provide ease of accessibility for all users.
+● Dynamic Portfolio Website: Tech-stacks used HTML/CSS, Django, JS/React. A fully responsive portfolio website that dynamically updates projects, blog posts, & personal information through an admin dashboard.
+● Library Management System (Python): It is designed to keep records of a/v files or books (issue/return date, borrower’s name and details).
+● Weather App: Tech-stack used Python,Django, HTML/CSS, JS, OpenWeather API. This application allows users to search weather by city or location, display weather forecast, and save favorite locations.
+
+
+CERTIFICATIONS
+● Python/Django | Issued by: DUCAT, NOIDA
+● Introduction to Quantum Computing | Issued by: The Coding School, CA (sponsored by IBM Quantum) | 
+(Taught by quantum researchers at MIT and UC Berkeley).
+
+
+EDUCATION
+● University of the People, Pasadena, CA, US (2023-2026)
+Bachelor Degree (Computer Science) | 3.19/4 (till now)
+● Shri Ram Murti Smarak College of Engineering & Technology, Bareilly (2015–2019)
+Bachelor of Technology (CS) | 60% 

@@ -1,0 +1,43 @@
+Full job description
+We are seeking a business-savvy Generative AI Developer to join our AI innovation team. You’ll contribute to the development of generative AI solutions using large language models across structured and unstructured data sources, with a strong focus on business alignment, rapid prototyping, and full-scale production deployments.
+
+This role bridges deep technical expertise with business fluency. You’ll collaborate with both engineering teams and business stakeholders to design, build, document and scale generative AI systems across a range of cloud environments.
+
+
+Key Responsibilities
+- Design and implement retrieval-augmented generation (RAG) architectures using LLMs over large unstructured datasets.
+- Apply advanced embedding techniques and vector search methods to enable high-precision semantic retrieval.
+- Collaborate directly with business teams to identify use cases, gather requirements, and convert ideas into AI prototypes and production systems.
+- Build rapid prototypes using tools such as Streamlit, Jupyter Notebooks and then evolving them into scalable full stack systems following business acceptance.
+- Use Python, LangChain, LangGraph, pydantic, pydanticAI or LlamaIndex to orchestrate workflows and agent-based LLM reasoning.
+- Deploy solutions across cloud-agnostic environments, supporting customer preference for Azure, AWS, GCP, or on-prem infrastructure.
+- Communicate effectively with both technical and non-technical stakeholders, translating AI potential into business value.
+
+
+Must-Have Qualifications
+- Programming: Advanced proficiency in Python, with production experience using agent and orchestration frameworks such as LangChain, LangGraph, pydantic, FastAPI, pydanticAI, LlamaIndex, etc.
+- LLM Integration: Deep understanding of embedding models, structured and unstructured multi-modal data processing, and CAG/RAG methodologies.
+- Prototyping & Deployment: Experience developing POCs with tools such as Streamlit and then transitioning them to full stack production systems.
+- Business Acumen: Strong ability to assess business processes and propose AI-driven optimizations.
+- Communication: Excellent verbal and written communication skills in English; ability to clearly articulate technical solutions to executive and business audiences.
+- Cloud Platforms: Experience deploying AI solutions on Azure, AWS, or GCP; working knowledge of services like vector databases, LLM APIs, scalable app hosting, and NoSQL storage (e.g., Azure AI Search, Cosmos DB, OpenAI Service, Bedrock, or Vertex AI).
+
+
+Preferred Qualifications
+- Advanced AI Skills: Familiarity with agentic AI frameworks, structured query generation, LLM fine-tuning, LLM content filters, safety and evaluation.
+- Development: Experience with full-stack development and web frameworks such as Angular, React, etc.
+- Certifications: Cloud certifications (Azure, AWS, GCP).
+- Mathematical Strength: Strong background in mathematics or applied statistics for machine learning and data science scenarios.
+
+
+Preference will be given to candidates who:
+- Hold a degree in Computer Science, Engineering, or a related field from a recognized post-secondary institution.
+- Can demonstrate exceptional achievement, such as widely adopted open-source contributions and high-impact GitHub/GitLab projects.
+
+
+- Job Types: Full-time, Part-time, Freelance
+- Pay: ₹67,994.00 - ₹85,896.00 per year
+- Expected hours: 40 per week
+- Schedule: Monday to Friday
+- Work Location: Remote
+
