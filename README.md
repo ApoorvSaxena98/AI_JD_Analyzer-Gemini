@@ -21,7 +21,7 @@ AI-JD-Analyzer_Gemini/
 
 ├── streamlit/ # 🔁 Rename to ".streamlit" (see note below)
 
-    └── secrets.toml # Google AI API key config (Enter your own api key)
+│ └── secrets.toml # Google AI API key config (Enter your own api key)
 
 ├── assets/
 
