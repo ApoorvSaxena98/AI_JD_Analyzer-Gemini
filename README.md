@@ -33,6 +33,7 @@ AI-JD-Analyzer_Gemini/
 
 
 
+
 **⚠️ IMPORTANT:**  
 Rename the `streamlit` folder to `.streamlit` before running the app.  
 **`.streamlit`** is a special hidden folder used to store configuration files for a Streamlit app. Located in your app/project directory. Commonly contains files like `secrets.toml` or `config.toml` for setting themes, ports, server options, etc.
