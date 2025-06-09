@@ -7,7 +7,7 @@ A simple web app that uses 'Gemini' to determine whether a resume and job descri
 - Python
 - Streamlit
 - Gemini
-- 
+ 
 ---
 
 ## 📁 Project Structure
@@ -40,13 +40,13 @@ Rename the `streamlit` folder to `.streamlit` before running the app.
 
 ## 🚀 Setup Instructions
 **1. Install dependencies**
-     pip install -r requirements.txt
+     `pip install -r requirements.txt`
 
 **2. Inside the renamed .streamlit/ folder, create a file called secrets.toml and add:**
-    GEMINI_API_KEY = ""your-api-key"
+    `GEMINI_API_KEY = ""your-api-key"`
       
 **3. Run the application**
-     streamlit run app.py
+     `streamlit run app.py`
 
 ---
 
